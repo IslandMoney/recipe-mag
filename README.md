@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.1.
 
+## What does it do?
+
+I created Recipe Mag as a website where you can look at many different recipes, create your own recipes, and on demand add the recipes ingredients to a list. 
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
