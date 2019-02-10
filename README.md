@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## What does it do?
 
-I created Recipe Mag as a website where you can look at many different recipes, create your own recipes, and on demand add the recipes ingredients to a list. 
+Recipe Mag is a mockup app where you can look at many different recipes, create your own recipes, and on demand add the recipes ingredients to a list. (for demo purposes - not finalized)
 
 ## Development server
 
